@@ -1,3 +1,7 @@
+
+<img width="1278" height="531" alt="image" src="https://github.com/user-attachments/assets/79e8d780-4b57-4ba0-90a0-50c07aa991d8" />
+
+
 Buat folder dengan nama bebas di Folder Manager (misalnya: GAU V2)
 Buka folder pada VS Code
 Buat file baru dengan nama js_hunter_mt.py
