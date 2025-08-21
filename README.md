@@ -1,4 +1,4 @@
-🕵️‍♂️ JS Hunter V2 (Kali Edition)
+🕵️‍♂️ JS Hunter V2 
 
 JS Hunter V2 adalah alat untuk melakukan JavaScript reconnaissance pada domain target, dengan fitur:
 
